@@ -1,4 +1,13 @@
-baseURL = "https://yaccho0101.github.io/shiwaku-alpha"
+baseURL = "https://yaccho0101.github.io/shiwaku-alpha/"
 title = "Map the Fragments"
 languageCode = "en-us"
 theme = "cactus-plus"
+googleAnalytics = "UA-114593264-1"
+
+[params]
+	author = "Yasuhiro Shiwaku"
+	description = "日々忘録のため"
+[social]
+	facebook = "https://www.facebook.com/yasuhiro.shiwaku.5"
+	github = "https://www.github.com/yaccho0101"
+	instagram = "https://www.instagram.com/yaccho0101"
