@@ -2,7 +2,6 @@ baseURL = "https://yaccho0101.github.io/shiwaku-alpha/"
 title = "Map the Fragments"
 languageCode = "en-us"
 theme = "cactus-plus"
-googleAnalytics = "UA-114593264-1"
 
 [params]
 	author = "Yasuhiro Shiwaku"
